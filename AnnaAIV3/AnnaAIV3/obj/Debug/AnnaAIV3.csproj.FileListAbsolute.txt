@@ -1,0 +1,11 @@
+C:\Users\devon\source\repos\AnnaAIV3\AnnaAIV3\bin\Debug\AnnaAIV3.exe.config
+C:\Users\devon\source\repos\AnnaAIV3\AnnaAIV3\bin\Debug\AnnaAIV3.exe
+C:\Users\devon\source\repos\AnnaAIV3\AnnaAIV3\bin\Debug\AnnaAIV3.pdb
+C:\Users\devon\source\repos\AnnaAIV3\AnnaAIV3\bin\Debug\AIMLBot.dll
+C:\Users\devon\source\repos\AnnaAIV3\AnnaAIV3\obj\Debug\AnnaAIV3.csproj.AssemblyReference.cache
+C:\Users\devon\source\repos\AnnaAIV3\AnnaAIV3\obj\Debug\AnnaAIV3.Form1.resources
+C:\Users\devon\source\repos\AnnaAIV3\AnnaAIV3\obj\Debug\AnnaAIV3.Properties.Resources.resources
+C:\Users\devon\source\repos\AnnaAIV3\AnnaAIV3\obj\Debug\AnnaAIV3.csproj.GenerateResource.cache
+C:\Users\devon\source\repos\AnnaAIV3\AnnaAIV3\obj\Debug\AnnaAIV3.csproj.CoreCompileInputs.cache
+C:\Users\devon\source\repos\AnnaAIV3\AnnaAIV3\obj\Debug\AnnaAIV3.exe
+C:\Users\devon\source\repos\AnnaAIV3\AnnaAIV3\obj\Debug\AnnaAIV3.pdb
