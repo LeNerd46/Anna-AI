@@ -48,7 +48,7 @@ namespace AnnaAIV3
                 bot = new Bot();
                 bot.loadSettings();
 
-                user = new User("Gianna", bot);
+                user = new User("NAME(DOESN'T WORK)", bot);
 
                 bot.isAcceptingUserInput = false;
                 bot.loadAIMLFromFiles();
